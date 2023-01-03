@@ -1,3 +1,7 @@
+*{
+    margin: 0;
+    align-items: center;
+}
 h1{
     color: red;
     background-color: black;
@@ -16,4 +20,12 @@ h2{
     font-weight: bolder;
     border: 20px dashed navy;
     border-radius: 40px;
+}
+.im {
+     padding: 50px;
+     border: 10px dashed coral;
+     text-align: center;
+     margin: 0px 400px;
+    
+
 }
