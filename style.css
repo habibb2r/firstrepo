@@ -1,0 +1,19 @@
+h1{
+    color: yellow;
+    background-color: black;
+    padding: 20px;
+    margin: 30px 100px;
+    text-align: center;
+
+}
+h2{
+    color: gold;
+    background-color: black;
+    padding: 50px;
+    margin: 30px 100px;
+    text-align: center;
+    font-size: 2em;
+    font-weight: bolder;
+    border: 20px dashed navy;
+    border-radius: 40px;
+}
